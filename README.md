@@ -6,5 +6,5 @@ e.g. For day 3:
 
 ```bash
 $ ruby part1.rb < test
-230
+198
 ```
